@@ -1,11 +1,12 @@
 #!/usr/bin/env python
 # coding: utf-8
+#first comment
 
 # In[13]:
 
 
 from typing import List
-
+#fdsgfstdth
 board = [
     "......................",
     "......##########......",
